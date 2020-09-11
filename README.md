@@ -1,4 +1,4 @@
-# My Personal Wiki
+# 我的博客
 
 - [Stuff to Buy](docs/stuff_to_buy.md)
 - [Movies to Watch](docs/movies_to_watch.md)
